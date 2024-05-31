@@ -1,0 +1,10 @@
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\obj\Debug\Mayin_Tarlasi03.csproj.AssemblyReference.cache
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\obj\Debug\Mayin_Tarlasi03.Mayin_Tarlasi03.resources
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\obj\Debug\Mayin_Tarlasi03.Properties.Resources.resources
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\obj\Debug\Mayin_Tarlasi03.csproj.GenerateResource.cache
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\obj\Debug\Mayin_Tarlasi03.csproj.CoreCompileInputs.cache
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\bin\Debug\Mayin_Tarlasi03.exe.config
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\bin\Debug\Mayin_Tarlasi03.exe
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\bin\Debug\Mayin_Tarlasi03.pdb
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\obj\Debug\Mayin_Tarlasi03.exe
+C:\Users\ertir\source\repos\Mayin_Tarlasi03\Mayin_Tarlasi03\obj\Debug\Mayin_Tarlasi03.pdb
